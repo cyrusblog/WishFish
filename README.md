@@ -4,14 +4,14 @@ Get access to the Front Camera
 
 How to install git to termex -
 
-pkg update
+$ pkg update
 
-pkg upgrade
+$ pkg upgrade
 
-git clone https://github.com/cyrusblog/WishFish.git
+$ git clone https://github.com/cyrusblog/WishFish.git
 
-cd WishFish
+$ cd WishFish
 
-bash wishfish.sh
+$ bash wishfish.sh
 
 These are the commands by which you can install WishFish....
