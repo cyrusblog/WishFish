@@ -8,7 +8,7 @@ pkg update
 
 pkg upgrade
 
-git clone https://github.com/kinghacker0/WishFish.git
+git clone https://github.com/cyrusblog/WishFish.git
 
 cd WishFish
 
